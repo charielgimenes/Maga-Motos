@@ -13,11 +13,12 @@
 }
 
 #cta .title {
-    font-size: 4rem;
-    color: var(--color-neutral-1);;
+    font-size: 3rem;
+    color: var(--color-neutral-1);
 }
 
 #cta .title span {
+    font-size: 2rem;
     color: var(--color-primary-6);
 }
 
